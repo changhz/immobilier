@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://changhz.github.io/immobilier/precache-manifest.69118e1951241db52b8f0f4b46ae5fed.js"
+  "https://changhz.github.io/immobilier/precache-manifest.88bfdfa8f9525effec09d838c4a4c16c.js"
 );
 
 self.addEventListener('message', (event) => {
