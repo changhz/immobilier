@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://changhz.github.io/location/static/css/main.1359096b.chunk.css",
+    "main.js": "https://changhz.github.io/location/static/js/main.441c6623.chunk.js",
+    "runtime-main.js": "https://changhz.github.io/location/static/js/runtime-main.731e8e9d.js",
+    "static/js/2.34a72993.chunk.js": "https://changhz.github.io/location/static/js/2.34a72993.chunk.js",
+    "index.html": "https://changhz.github.io/location/index.html",
+    "precache-manifest.b516e6ea6992e5cba3c837a78d85666a.js": "https://changhz.github.io/location/precache-manifest.b516e6ea6992e5cba3c837a78d85666a.js",
+    "service-worker.js": "https://changhz.github.io/location/service-worker.js",
+    "static/js/2.34a72993.chunk.js.LICENSE": "https://changhz.github.io/location/static/js/2.34a72993.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.731e8e9d.js",
+    "static/js/2.34a72993.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.441c6623.chunk.js"
+  ]
+}
