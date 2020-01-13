@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "https://changhz.github.io/immobilier/static/css/main.1359096b.chunk.css",
-    "main.js": "https://changhz.github.io/immobilier/static/js/main.4fdbcdc6.chunk.js",
+    "main.js": "https://changhz.github.io/immobilier/static/js/main.e96176cd.chunk.js",
     "runtime-main.js": "https://changhz.github.io/immobilier/static/js/runtime-main.a25cd4e6.js",
     "static/js/2.5a02e8e3.chunk.js": "https://changhz.github.io/immobilier/static/js/2.5a02e8e3.chunk.js",
     "index.html": "https://changhz.github.io/immobilier/index.html",
-    "precache-manifest.aa140f2f843aa99cf2403127f6f053db.js": "https://changhz.github.io/immobilier/precache-manifest.aa140f2f843aa99cf2403127f6f053db.js",
+    "precache-manifest.ec75e34281d230c49114a13453f4274f.js": "https://changhz.github.io/immobilier/precache-manifest.ec75e34281d230c49114a13453f4274f.js",
     "service-worker.js": "https://changhz.github.io/immobilier/service-worker.js",
     "static/js/2.5a02e8e3.chunk.js.LICENSE": "https://changhz.github.io/immobilier/static/js/2.5a02e8e3.chunk.js.LICENSE"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.a25cd4e6.js",
     "static/js/2.5a02e8e3.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.4fdbcdc6.chunk.js"
+    "static/js/main.e96176cd.chunk.js"
   ]
 }
